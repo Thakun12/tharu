@@ -76,22 +76,10 @@
     ]
   },
   {
-    "3EB0AAFFDE97893A148A4C": [
+    "3EB0953E2D3C5894E17C27": [
       {
         "cmdId": "1",
-        "cmd": ".daqt https://sinhalasub.lk/movies/the-croods-a-new-age-2020-sinhala-subtitles/"
-      },
-      {
-        "cmdId": "2",
-        "cmd": ".mn https://sinhalasub.lk/links/n3xl2mxq0p/±The Croods: A New Age (2020) Sinhala Subtitles | සිංහල උපසිරසි සමඟ - FHD 1080p - 2.31 GB"
-      },
-      {
-        "cmdId": "3",
-        "cmd": ".mn https://sinhalasub.lk/links/j6czlsfioz/±The Croods: A New Age (2020) Sinhala Subtitles | සිංහල උපසිරසි සමඟ - HD 720p - 1.15 GB"
-      },
-      {
-        "cmdId": "4",
-        "cmd": ".mn https://sinhalasub.lk/links/erof20hkzd/±The Croods: A New Age (2020) Sinhala Subtitles | සිංහල උපසිරසි සමඟ - SD 480p - 606 MB"
+        "cmd": ".infodl https://sinhalasub.lk/movies/kalki-2898-ad-2024-sinhala-subtitles/"
       }
     ]
   }
