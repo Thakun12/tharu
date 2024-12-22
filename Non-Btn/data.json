@@ -76,10 +76,30 @@
     ]
   },
   {
-    "3EB0953E2D3C5894E17C27": [
+    "3EB096AC1D835D064954E2": [
       {
         "cmdId": "1",
-        "cmd": ".infodl https://sinhalasub.lk/movies/kalki-2898-ad-2024-sinhala-subtitles/"
+        "cmd": ".infodl https://sinhalasub.lk/movies/talk-to-me-2023-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".infodl https://sinhalasub.lk/movies/women-talking-2022-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".infodl https://sinhalasub.lk/tvshows/sweet-home-2020-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".infodl https://sinhalasub.lk/movies/rons-gone-wrong-2021-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".infodl https://sinhalasub.lk/movies/extra-ordinary-man-2023-sinhala-subtitles-%e0%b7%83%e0%b7%92%e0%b6%82%e0%b7%84%e0%b6%bd-%e0%b6%8b%e0%b6%b4%e0%b7%83%e0%b7%92%e0%b6%bb%e0%b7%83%e0%b7%92-%e0%b7%83%e0%b6%b8%e0%b6%9f/"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".infodl https://sinhalasub.lk/tvshows/soundtrack-1-2022-sinhala-subtitles/"
       }
     ]
   }
