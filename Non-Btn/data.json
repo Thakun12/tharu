@@ -1,9 +1,77 @@
 [
   {
-    "3EB07A46A2A41CD76E8E1E": [
+    "3EB019D3B1C073C3D92D09": [
       {
         "cmdId": "1",
-        "cmd": ".infodl https://sinhalasub.lk/movies/kalki-2898-ad-2024-sinhala-subtitles/"
+        "cmd": ".infodl https://sinhalasub.lk/movies/the-croods-a-new-age-2020-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "2",
+        "cmd": ".infodl https://sinhalasub.lk/movies/bad-newz-2024-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "3",
+        "cmd": ".infodl https://sinhalasub.lk/movies/godzilla-x-kong-the-new-empire-2024-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "4",
+        "cmd": ".infodl https://sinhalasub.lk/tvshows/brand-new-cherry-flavor-2021-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "5",
+        "cmd": ".infodl https://sinhalasub.lk/movies/american-night-2021-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "6",
+        "cmd": ".infodl https://sinhalasub.lk/movies/project-gemini-2022-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "7",
+        "cmd": ".infodl https://sinhalasub.lk/movies/nightride-2022-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "8",
+        "cmd": ".infodl https://sinhalasub.lk/movies/badnaam-2021-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "9",
+        "cmd": ".infodl https://sinhalasub.lk/movies/when-trumpets-fade-1998-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "10",
+        "cmd": ".infodl https://sinhalasub.lk/movies/lady-driver-2020-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "11",
+        "cmd": ".infodl https://sinhalasub.lk/movies/agp-2022-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "12",
+        "cmd": ".infodl https://sinhalasub.lk/movies/the-power-of-the-dog-2021-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "13",
+        "cmd": ".infodl https://sinhalasub.lk/movies/the-lion-king-2019-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "14",
+        "cmd": ".infodl https://sinhalasub.lk/movies/the-ice-age-adventures-of-buck-wild-2022-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "15",
+        "cmd": ".infodl https://sinhalasub.lk/movies/theal-2022-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "16",
+        "cmd": ".infodl https://sinhalasub.lk/movies/the-dark-knight-rises-2012-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "17",
+        "cmd": ".infodl https://sinhalasub.lk/movies/oomai-sennai-2021-sinhala-subtitles/"
+      },
+      {
+        "cmdId": "18",
+        "cmd": ".infodl https://sinhalasub.lk/movies/batman-v-superman-dawn-of-justice-2016-sinhala-subtitles/"
       }
     ]
   }
